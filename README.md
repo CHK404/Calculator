@@ -7,6 +7,8 @@
   - 조건에 만족시 연산 진행
 
 ![image](https://github.com/user-attachments/assets/70bf7087-c47f-40c8-83c5-4ba626e08f8a)
+- 마이너스에 대한 조건
+  
 ---
 2. 기본 연산
   - 사칙연산
