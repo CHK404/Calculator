@@ -39,3 +39,16 @@
 
 ![image](https://github.com/user-attachments/assets/181b8dda-8a9c-4d3b-aaca-3f1a5c649763)
 - 팝업창을 위한 Form2
+
+---
+
+# 최종 
+
+![image](https://github.com/user-attachments/assets/302a7461-d375-4b53-991d-9d335ab230fd)
+
+- 메모리 값 출력 예시
+
+
+![image](https://github.com/user-attachments/assets/46d3e659-15c2-4e10-9d38-ee6137903dd4)
+
+- 계산 기록 출력 예시
