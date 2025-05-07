@@ -66,7 +66,7 @@
             // textBox_result
             // 
             this.textBox_result.BackColor = System.Drawing.SystemColors.Info;
-            this.textBox_result.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox_result.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox_result.Location = new System.Drawing.Point(11, 14);
             this.textBox_result.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox_result.Multiline = true;
@@ -85,6 +85,7 @@
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button1.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button1.Location = new System.Drawing.Point(11, 304);
             this.button1.Margin = new System.Windows.Forms.Padding(0);
@@ -105,6 +106,7 @@
             this.button2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button2.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button2.Location = new System.Drawing.Point(68, 304);
             this.button2.Margin = new System.Windows.Forms.Padding(0);
@@ -125,6 +127,7 @@
             this.button_plus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_plus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_plus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_plus.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_plus.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_plus.Location = new System.Drawing.Point(239, 304);
             this.button_plus.Margin = new System.Windows.Forms.Padding(0);
@@ -145,6 +148,7 @@
             this.button_eq.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_eq.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_eq.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_eq.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_eq.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_eq.Location = new System.Drawing.Point(239, 344);
             this.button_eq.Margin = new System.Windows.Forms.Padding(0);
@@ -165,6 +169,7 @@
             this.button3.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button3.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button3.Location = new System.Drawing.Point(125, 304);
             this.button3.Margin = new System.Windows.Forms.Padding(0);
@@ -185,6 +190,7 @@
             this.button0.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button0.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button0.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button0.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button0.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button0.Location = new System.Drawing.Point(68, 344);
             this.button0.Margin = new System.Windows.Forms.Padding(0);
@@ -205,6 +211,7 @@
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button6.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button6.Location = new System.Drawing.Point(125, 264);
             this.button6.Margin = new System.Windows.Forms.Padding(0);
@@ -225,6 +232,7 @@
             this.button_minus.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_minus.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_minus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_minus.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_minus.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_minus.Location = new System.Drawing.Point(239, 264);
             this.button_minus.Margin = new System.Windows.Forms.Padding(0);
@@ -245,6 +253,7 @@
             this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button5.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button5.Location = new System.Drawing.Point(68, 264);
             this.button5.Margin = new System.Windows.Forms.Padding(0);
@@ -265,6 +274,7 @@
             this.button4.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button4.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button4.Location = new System.Drawing.Point(11, 264);
             this.button4.Margin = new System.Windows.Forms.Padding(0);
@@ -285,6 +295,7 @@
             this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button9.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button9.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button9.Location = new System.Drawing.Point(125, 224);
             this.button9.Margin = new System.Windows.Forms.Padding(0);
@@ -305,6 +316,7 @@
             this.button_multiple.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_multiple.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_multiple.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_multiple.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_multiple.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_multiple.Location = new System.Drawing.Point(182, 304);
             this.button_multiple.Margin = new System.Windows.Forms.Padding(0);
@@ -325,6 +337,7 @@
             this.button8.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button8.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button8.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button8.Location = new System.Drawing.Point(68, 224);
             this.button8.Margin = new System.Windows.Forms.Padding(0);
@@ -345,6 +358,7 @@
             this.button7.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button7.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button7.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button7.Location = new System.Drawing.Point(11, 224);
             this.button7.Margin = new System.Windows.Forms.Padding(0);
@@ -365,6 +379,7 @@
             this.button_dot.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_dot.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_dot.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_dot.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_dot.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_dot.Location = new System.Drawing.Point(125, 344);
             this.button_dot.Margin = new System.Windows.Forms.Padding(0);
@@ -385,6 +400,7 @@
             this.button_pm.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_pm.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_pm.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_pm.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_pm.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_pm.Location = new System.Drawing.Point(11, 344);
             this.button_pm.Margin = new System.Windows.Forms.Padding(0);
@@ -405,6 +421,7 @@
             this.button_C.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_C.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_C.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_C.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_C.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_C.Location = new System.Drawing.Point(239, 184);
             this.button_C.Margin = new System.Windows.Forms.Padding(0);
@@ -425,6 +442,7 @@
             this.button_divide.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_divide.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_divide.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_divide.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_divide.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_divide.Location = new System.Drawing.Point(182, 264);
             this.button_divide.Margin = new System.Windows.Forms.Padding(0);
@@ -445,13 +463,14 @@
             this.button_CE.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_CE.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_CE.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_CE.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_CE.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_CE.Location = new System.Drawing.Point(182, 184);
             this.button_CE.Margin = new System.Windows.Forms.Padding(0);
             this.button_CE.Name = "button_CE";
             this.button_CE.Size = new System.Drawing.Size(50, 30);
             this.button_CE.TabIndex = 18;
-            this.button_CE.Text = "CE";
+            this.button_CE.Text = "AC";
             this.button_CE.UseVisualStyleBackColor = false;
             this.button_CE.Click += new System.EventHandler(this.button_CE_Click);
             // 
@@ -465,6 +484,7 @@
             this.button_percent.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_percent.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_percent.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_percent.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_percent.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_percent.Location = new System.Drawing.Point(182, 344);
             this.button_percent.Margin = new System.Windows.Forms.Padding(0);
@@ -485,6 +505,7 @@
             this.button_square.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_square.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_square.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_square.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_square.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_square.Location = new System.Drawing.Point(11, 184);
             this.button_square.Margin = new System.Windows.Forms.Padding(0);
@@ -505,6 +526,7 @@
             this.button_sqrt.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_sqrt.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_sqrt.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_sqrt.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_sqrt.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_sqrt.Location = new System.Drawing.Point(125, 184);
             this.button_sqrt.Margin = new System.Windows.Forms.Padding(0);
@@ -525,6 +547,7 @@
             this.button_power.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_power.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_power.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_power.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_power.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_power.Location = new System.Drawing.Point(68, 184);
             this.button_power.Margin = new System.Windows.Forms.Padding(0);
@@ -545,6 +568,7 @@
             this.button_cal_log.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_cal_log.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_cal_log.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_cal_log.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_cal_log.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_cal_log.Image = ((System.Drawing.Image)(resources.GetObject("button_cal_log.Image")));
             this.button_cal_log.Location = new System.Drawing.Point(248, 14);
@@ -564,6 +588,7 @@
             this.button_m_save.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_m_save.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_m_save.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_m_save.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_m_save.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_m_save.Location = new System.Drawing.Point(68, 144);
             this.button_m_save.Margin = new System.Windows.Forms.Padding(0);
@@ -584,6 +609,7 @@
             this.button_m_clear.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_m_clear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_m_clear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_m_clear.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_m_clear.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_m_clear.Location = new System.Drawing.Point(125, 144);
             this.button_m_clear.Margin = new System.Windows.Forms.Padding(0);
@@ -604,6 +630,7 @@
             this.button_m.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;
             this.button_m.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Black;
             this.button_m.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_m.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_m.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_m.Location = new System.Drawing.Point(11, 144);
             this.button_m.Margin = new System.Windows.Forms.Padding(0);
@@ -620,6 +647,7 @@
             this.button_m_plus.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button_m_plus.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button_m_plus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_m_plus.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_m_plus.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_m_plus.Location = new System.Drawing.Point(182, 144);
             this.button_m_plus.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -636,6 +664,7 @@
             this.button_m_minus.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button_m_minus.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button_m_minus.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_m_minus.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_m_minus.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_m_minus.Location = new System.Drawing.Point(239, 144);
             this.button_m_minus.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -652,6 +681,7 @@
             this.button_reverse.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button_reverse.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button_reverse.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_reverse.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_reverse.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.button_reverse.Location = new System.Drawing.Point(182, 224);
             this.button_reverse.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
@@ -668,6 +698,7 @@
             this.button_abs.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button_abs.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button_abs.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.button_abs.Font = new System.Drawing.Font("Yu Gothic UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_abs.Location = new System.Drawing.Point(239, 224);
             this.button_abs.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.button_abs.Name = "button_abs";

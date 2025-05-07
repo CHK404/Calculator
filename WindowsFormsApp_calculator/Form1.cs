@@ -369,6 +369,21 @@ namespace WindowsFormsApp_calculator
         private void button_pm_Click(object sender, EventArgs e)
         {
             string text = textBox_result.Text;
+            int eNum = textBox_result.Text.LastIndexOfAny(new char[] { 'E', 'e' });
+            if (eNum > 0 && eNum + 1 < textBox_result.Text.Length)
+            {
+                char nextChar = textBox_result.Text[eNum + 1];
+                if (nextChar == '+')
+                {
+                    MessageBox.Show("숫자가 너무 큽니다. 새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+                else if (nextChar == '-')
+                {
+                    MessageBox.Show("숫자가 너무 작습니다.새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+            }
             if (textBox_result.Text == string.Empty || operators.Any(op => text.LastIndexOf(op) > 0) || textBox_result.Text.EndsWith("."))
             {
                 MessageBox.Show("잘못된 입력입니다.");
@@ -565,10 +580,52 @@ namespace WindowsFormsApp_calculator
         }
         private void button_reverse_Click(object sender, EventArgs e)
         {
+            string text = textBox_result.Text;
+            int eNum = textBox_result.Text.LastIndexOfAny(new char[] { 'E', 'e' });
+            if (eNum > 0 && eNum + 1 < textBox_result.Text.Length)
+            {
+                char nextChar = textBox_result.Text[eNum + 1];
+                if (nextChar == '+')
+                {
+                    MessageBox.Show("숫자가 너무 큽니다. 새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+                else if (nextChar == '-')
+                {
+                    MessageBox.Show("숫자가 너무 작습니다.새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+            }
+            if (textBox_result.Text == string.Empty || operators.Any(op => text.LastIndexOf(op) > 0) || textBox_result.Text.EndsWith("."))
+            {
+                MessageBox.Show("잘못된 입력입니다.");
+                result_Num = false;
+            }
             textBox_result.Text = (1/double.Parse(textBox_result.Text)).ToString();
         }
         private void button_abs_Click(object sender, EventArgs e)
         {
+            string text = textBox_result.Text;
+            int eNum = textBox_result.Text.LastIndexOfAny(new char[] { 'E', 'e' });
+            if (eNum > 0 && eNum + 1 < textBox_result.Text.Length)
+            {
+                char nextChar = textBox_result.Text[eNum + 1];
+                if (nextChar == '+')
+                {
+                    MessageBox.Show("숫자가 너무 큽니다. 새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+                else if (nextChar == '-')
+                {
+                    MessageBox.Show("숫자가 너무 작습니다.새로운 값을 입력 후 연산을 다시 시도해주세요.");
+                    return;
+                }
+            }
+            if (textBox_result.Text == string.Empty || operators.Any(op => text.LastIndexOf(op) > 0) || textBox_result.Text.EndsWith("."))
+            {
+                MessageBox.Show("잘못된 입력입니다.");
+                result_Num = false;
+            }
             textBox_result.Text = (Math.Abs(double.Parse(textBox_result.Text))).ToString();
         }
     }
